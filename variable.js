@@ -5,3 +5,7 @@ console.log(name);
 console.log(age);
 console.log(name + " Kowns Javascript and javascript framework");
 console.log("He is Only " + age + " Years Old");
+
+var mathNumber = 10;
+var accountNumberDetailsId = 104;
+console.log(accountNumberDetailsId);

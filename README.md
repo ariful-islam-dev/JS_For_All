@@ -2,3 +2,5 @@
 ***Learn From Stack-Learner***
 
 ### Chapter Two
+
+- [x] Variable Diclaration
