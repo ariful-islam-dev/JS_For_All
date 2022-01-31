@@ -4,3 +4,8 @@
 ### Chapter Two
 
 - [x] Variable Diclaration
+- [x] Primitive Data Types
+    - [] Number
+    - [] String 
+    - [] Boolean
+    - [] Null vs Undefined
