@@ -4,4 +4,5 @@
 ### Chapter Three
 
 - [x] Logic & Conditions
-    - [] if Condition
+    - [ ] if Condition
+    - [ ] else Condition
