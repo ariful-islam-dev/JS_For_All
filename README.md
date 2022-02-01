@@ -17,3 +17,4 @@
     - [] Logical Operator
     - [] Bitwase Operator
     - [] typeof Operator
+- [x] Statements

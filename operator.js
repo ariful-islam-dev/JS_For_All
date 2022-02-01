@@ -54,3 +54,26 @@ console.log(a%b);
     console.log(a >= b);
     console.log(a <= b);
 
+
+    var c = '50';
+    var  d = 50;
+
+    console.log(c == d);
+    console.log(c===d);
+    console.log(c!== d);
+
+    
+    // Logical Operators
+    // && || !
+
+    // Bitwise Operator
+    // &
+    // |
+    // ~
+    // ^
+    // <<
+    // >>
+
+    // type of oparetor
+
+    console.log(typeof 'Ariful');
