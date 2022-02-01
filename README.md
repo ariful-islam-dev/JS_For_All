@@ -11,3 +11,4 @@
     - [] String 
     - [] Boolean
     - [] Null vs Undefined
+- [x] Oparator
