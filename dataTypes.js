@@ -53,3 +53,11 @@ null*/
     var abc ;
     var xyz = null;
     console.log(abc, xyz);
+
+
+
+    var hex = 0xff;
+    console.log(hex);
+
+    var oct = 0756;
+    console.log(oct);

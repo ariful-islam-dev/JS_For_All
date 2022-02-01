@@ -6,6 +6,8 @@
 - [x] Variable Diclaration
 - [x] Primitive Data Types
     - [] Number
+        - Hexadecimal 
+        - Octal
     - [] String 
     - [] Boolean
     - [] Null vs Undefined
