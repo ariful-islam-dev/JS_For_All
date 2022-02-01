@@ -6,3 +6,5 @@
 - [x] Logic & Conditions
     - [ ] if Condition
     - [ ] else Condition
+    - [ ] else if condition
+    - [ ] switch
