@@ -19,3 +19,4 @@
     - [] typeof Operator
 - [x] Statements
 - [x] Math
+- [x] Comments
