@@ -8,3 +8,4 @@
     - [ ] else Condition
     - [ ] else if condition
     - [ ] switch
+    - [ ] Logical Operators
