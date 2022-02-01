@@ -9,3 +9,4 @@
     - [ ] else if condition
     - [ ] switch
     - [ ] Logical Operators
+    - [ ] Ternary Operators
