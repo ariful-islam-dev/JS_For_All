@@ -12,3 +12,8 @@
     - [] Boolean
     - [] Null vs Undefined
 - [x] Oparator
+    - [] Assignment Operator
+    - [] Comparison Operator
+    - [] Logical Operator
+    - [] Bitwase Operator
+    - [] typeof Operator
