@@ -18,3 +18,4 @@
     - [] Bitwase Operator
     - [] typeof Operator
 - [x] Statements
+- [x] Math
