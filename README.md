@@ -2,14 +2,8 @@
 
 **_Learn From Stack-Learner_**
 
-### Chapter Four
+### Chapter Five
 
-- [x] Array Methods
-  - [ ] Loop
-    - [1] For Loop
-    - [2] While Loop
-    - [3] Do While Loop
-
-  - [ ] Nested Loop
-  - [ ] Break
-  - [ ] Infinity Loop
+- [x] String
+    - [ ] String Litaral
+    - [ ] String Constractor
