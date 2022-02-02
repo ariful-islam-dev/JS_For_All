@@ -1,12 +1,11 @@
 # JS All you need to know
-***Learn From Stack-Learner***
 
-### Chapter Three
+**_Learn From Stack-Learner_**
 
-- [x] Logic & Conditions
-    - [ ] if Condition
-    - [ ] else Condition
-    - [ ] else if condition
-    - [ ] switch
-    - [ ] Logical Operators
-    - [ ] Ternary Operators
+### Chapter Four
+
+- [x] Array Methods
+  - [ ] Loop
+    - [1] For Loop
+    - [2] While Loop
+    - [3] Do While Loop
