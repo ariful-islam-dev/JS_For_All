@@ -9,3 +9,7 @@ console.log(a < b);
 
 console.log('z' > 'Z');
 console.log('a' > 'Z');
+
+
+
+console.log('001' == 1);
