@@ -7,3 +7,5 @@
 - [x] String
     - [ ] String Litaral
     - [ ] String Constractor
+    - [ ] Escape Notation
+    
