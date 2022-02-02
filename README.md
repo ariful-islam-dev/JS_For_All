@@ -8,4 +8,7 @@
     - [ ] String Litaral
     - [ ] String Constractor
     - [ ] Escape Notation
+    - [ ] String Methods
+        1. string.charAt();
+        2. string.length();
     
