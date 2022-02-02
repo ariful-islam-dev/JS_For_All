@@ -12,3 +12,4 @@
 
   - [ ] Nested Loop
   - [ ] Break
+  - [ ] Infinity Loop
