@@ -2,17 +2,11 @@
 
 **_Learn From Stack-Learner_**
 
-### Chapter Six
+### Chapter Seven
 
-- [x] Array
+- [x] Object
+  - [ ] Object  Literal
+  - [ ] Object  Constructor
 
-  - [ ] Litaral Array
-  - [ ] Constractor Array
-  - [ ] Array Building Methods
-  - [ ] How search data from Array
-  - [ ] Multiple Array Traversing
-  - [ ] Array Reversing
-  - [ ] Array.form();
 
-- > Arrary Start 42
-- > Arrary End 49
+- > Object Start 51
