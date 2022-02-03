@@ -6,6 +6,7 @@
 
 - [x] Object
   - [ ] Object  Literal
+    1. Dot Notation
   - [ ] Object  Constructor
 
 
