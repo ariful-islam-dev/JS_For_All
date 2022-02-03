@@ -5,6 +5,10 @@
 ### Chapter Eight
 
 - [x] Function
+    - [ ] parameter
+    - [ ] arguments
+    - [ ] how to use arguments in the function
+    - [ ] return
 
 
 - > Function Start 58
