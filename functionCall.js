@@ -10,6 +10,10 @@ function add() {
     console.log(a+b);
 }
 add()
+add()
+add()
+add()
+add()
 
 function sub() {
     var a = 50;
