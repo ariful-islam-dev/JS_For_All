@@ -9,6 +9,8 @@
     - [ ] Constractor Array
     - [ ] Array Building Methods
     - [ ] How search data from Array
+    - [ ] Multiple Array Traversing
+    - [ ] Array Reversing
 
 
 - > Arrary Start 42 
