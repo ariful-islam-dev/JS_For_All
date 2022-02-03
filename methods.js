@@ -12,4 +12,3 @@ console.log(arr3);
 const arr4 = Array.from(arr);
 console.log(arr4);
 
-
