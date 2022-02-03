@@ -7,4 +7,6 @@
 - [x] Array
     - [ ] Litaral Array
     - [ ] Constractor Array
+    - [ ] Array Building Methods
+    - [ ] How search data from Array
     
