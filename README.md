@@ -4,14 +4,8 @@
 
 ### Chapter Eight
 
-- [x] Function
+- [x] Functional Programming
 
-  - [ ] parameter
-  - [ ] arguments
-  - [ ] how to use arguments in the function
-  - [ ] return
-  - [ ] inner Function
-  - [ ] scope
-
-- > Function Start 58
-- > Function End 64....
+  - [ ] Pure Functions > `* It Returns the same result if given the same arguments` > `* It does not cause any observable side effects`
+  - [ ] First Class Function
+  - [ ] Higher Order Functions
