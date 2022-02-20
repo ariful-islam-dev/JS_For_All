@@ -25,3 +25,4 @@
   - [ ] Callback Function
   - [ ] Callback Function custom build and implemention
   - [ ] Filter Method with Callback
+  - [ ] Reduce Method
