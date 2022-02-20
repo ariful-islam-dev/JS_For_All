@@ -11,6 +11,7 @@
   - [ ] how to use arguments in the function
   - [ ] return
   - [ ] inner Function
+  - [ ] scope
 
 - > Function Start 58
 - > Function End 64....
