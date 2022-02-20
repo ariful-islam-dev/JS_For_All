@@ -26,3 +26,6 @@
   - [ ] Callback Function custom build and implemention
   - [ ] Filter Method with Callback
   - [ ] Reduce Method
+  - [ ] Find Method
+  - [ ] FindIndex Method
+        s
