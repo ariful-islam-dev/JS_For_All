@@ -20,3 +20,5 @@
 
             _ We can pass functiona an an Arguments
             _ We can return functions from Another function
+
+  - [ ] Closure
