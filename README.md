@@ -24,3 +24,4 @@
   - [ ] Closure
   - [ ] Callback Function
   - [ ] Callback Function custom build and implemention
+  - [ ] Filter Method with Callback
