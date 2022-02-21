@@ -31,3 +31,4 @@
   - [ ] Sort Method
   - [ ] Some Method
   - [ ] Every Method
+  - [ ] Return another Function
