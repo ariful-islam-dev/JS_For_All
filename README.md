@@ -28,4 +28,6 @@
   - [ ] Reduce Method
   - [ ] Find Method
   - [ ] FindIndex Method
-        s
+  - [ ] Sort Method
+  - [ ] Some Method
+  - [ ] Every Method
