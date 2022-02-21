@@ -33,3 +33,4 @@
   - [ ] Every Method
   - [ ] Return another Function
   - [ ] Recursive Function
+  - [ ] Currying
