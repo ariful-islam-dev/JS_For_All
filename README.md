@@ -34,3 +34,4 @@
   - [ ] Return another Function
   - [ ] Recursive Function
   - [ ] Currying
+  - [ ] Function Composition
