@@ -32,3 +32,4 @@
   - [ ] Some Method
   - [ ] Every Method
   - [ ] Return another Function
+  - [ ] Recursive Function
